@@ -2,9 +2,15 @@
   "posts": [
     {
       "id": 1, "userId": 1, "title": "Hello 1", "body": "Hello this is a first post"
-    }, {"id":2,"userId":1, "title": "Hello 2","body":"Hello second thing"}, 
-{"id":3,"userId":2,"title":"Hello 3","body":"Hello third thing"}
-
-  ], "profile": {
+    }, 
+    {
+      "id":2,  "userId":1, "title": "Hello 2",  "body":  "Hello second thing"
+    }, 
+    {
+      "id":3,  "userId":2,  "title":  "Hello 3",  "body":  "Hello third thing"
+    },
+  ], 
+  "profile": {
     "name": "typicode"
-  } }
+  } 
+}
